@@ -1,0 +1,71 @@
+[
+    {
+        "system": "Oneadmin",
+        "database":"Oneadmin DVL",
+        "username": "gdpr_user",
+        "password": "gdpr4u",
+        "connection": "oci:dbname=sharedb201.aa1.pqe:1521/onedvl"
+    },
+    {
+        "system": "Oneadmin",
+        "database":"Oneadmin PEP",
+        "username": "gdpr_user",
+        "password": "gdpr4u",
+        "connection": "oci:dbname=sharedb201.aa1.pqe:1521/onepep"
+    },
+    {
+        "system": "Oneadmin",
+        "database":"Oneadmin PRD",
+        "username": "gdpr_user",
+        "password": "gdpr4u",
+        "connection": "oci:dbname=sharedb101.dc4.pqe:1521/oneprd"
+    },
+    {
+        "system": "Tracs",
+        "database":"Tracs DVL",
+        "username": "gdpr_user",
+        "password": "gdpr4u",
+        "connection": "oci:dbname=sharedb201.aa1.pqe:1521/TRACSDVL"
+    },
+    {
+        "system": "Tracs",
+        "database":"Tracs PEP",
+        "username": "gdpr_user",
+        "password": "gdpr4u",
+        "connection": "oci:dbname=sharedb201.aa1.pqe:1521/TRACSPEP"
+    },
+    {
+        "system": "Tracs",
+        "database":"Tracs PRD",
+        "username": "gdpr_user",
+        "password": "gdpr4u",
+        "connection": "oci:dbname=sharedb101.dc4.pqe:1521/TRACSPRD"
+    },
+    {
+        "system": "Trials",
+        "database":"Trials DVL",
+        "username": "gdpr_user",
+        "password": "gdpr4u",
+        "connection": "oci:dbname=sharedb201.aa1.pqe:1521/onedvl"
+    },
+    {
+        "system": "Trials",
+        "database":"Trials PEP",
+        "username": "gdpr_user",
+        "password": "gdpr4u",
+        "connection": "oci:dbname=sharedb201.aa1.pqe:1521/onepep"
+    },
+    {
+        "system": "Trials",
+        "database":"Trials PRD",
+        "username": "gdpr_user",
+        "password": "gdpr4u",
+        "connection": "oci:dbname=sharedb101.dc4.pqe:1521/oneprd"
+    },
+    {
+        "system": "Acoustic",
+        "database":"Acoustic",
+        "username": "wF/hdbQChyCaEGfqc5bKdpyxu1OMRZaxrO00wX7MI2g=",
+        "password": "4lCaBukbuFOOF3D2IIHcSYGy"
+    }
+]
